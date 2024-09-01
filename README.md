@@ -1,6 +1,7 @@
 ADMIN PANEL LOGIN DETAILS
  
 Username: kallesh
+
 Password: password
 
 
